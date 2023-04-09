@@ -3,14 +3,11 @@ Timer for JavaScript
 
 <h1> HTML </h1>
 
-
-<code>
-<div class="ts-count-down" data-date="April 24, 2023 15:03:26"></div> 
-</code>
-
+<pre> <code> <div class="ts-count-down" data-date="April 24, 2023 15:03:26"></div> </code</pre>
 
 <h1> CSS </h1>
 
+<pre>
 <code>
 .ts-count-down {
     display: flex;
